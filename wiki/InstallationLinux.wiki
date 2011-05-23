@@ -1,12 +1,5 @@
-#summary Installing SURF for Linux
+#summary Running SURF for Linux
 
 = Dependencies =
  * OpenCV 
- * OpenCL Runtime
-
-
-= Details =
-
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ * OpenCL Runtime and any compliant device
