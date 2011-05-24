@@ -1,0 +1,10 @@
+#summary Description of the SURF Algorithm
+#labels Phase-Implementation,SURF
+
+= SURF Algorithm =
+
+The Speeded Up Robust Features Algorithm (SURF) is explained in detail in the following papers.
+
+
+ # [http://www.sciencedirect.com/science/article/pii/S1077314207001555 Speeded-Up Robust Features (SURF)] Herbert Bay, Andreas Ess, Tinne Tuytelaarsb and Luc Van Gool
+ # [http://www.chrisevansdev.com/computer-vision-opensurf.html Notes on the OpenSURF Library] Chris Evans
