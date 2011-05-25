@@ -8,3 +8,5 @@ The Speeded Up Robust Features Algorithm (SURF) is explained in detail in the fo
 
  # [http://www.sciencedirect.com/science/article/pii/S1077314207001555 Speeded-Up Robust Features (SURF)] Herbert Bay, Andreas Ess, Tinne Tuytelaarsb and Luc Van Gool
  # [http://www.chrisevansdev.com/computer-vision-opensurf.html Notes on the OpenSURF Library] Chris Evans
+
+https://lh4.googleusercontent.com/_4P6qHla52PA/TdyPI-lo3aI/AAAAAAAABvY/3JC0kLbNZCQ/s640/surf.png
